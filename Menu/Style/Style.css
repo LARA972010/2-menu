@@ -1,0 +1,24 @@
+li{
+    display: inline;
+    text-decoration: none;
+    padding: 10px 20px;
+   
+}
+
+a{
+    text-decoration: none;
+    color: rgb(171, 10, 192);
+}
+
+@media only screen and (max-width: 900px){
+li{
+    display: block;
+    
+}
+div{
+    float: left;
+}
+}
+
+
+
